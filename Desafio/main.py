@@ -1,4 +1,4 @@
-# consideraçoes:
+# Considerações:
 # 1) O arquivo dados.json deve estar na mesma pasta que o arquivo main.py
 # 2) A solução dos exercicios foi concentrada em um único arquivo para facilitar a execução e avaliação do código, porém, em um ambiente de produção, cada exercício seria separado em arquivos distintos.
 
